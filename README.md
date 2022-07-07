@@ -59,6 +59,6 @@ Click 'Edit with [default text editor].' Make appropriate additions and/or chang
 Double click saved file or refresh web browser for changes to take effect.
 ### GitHub
 ***
-- [Repo Link](https://github.com/bdreslin02/website-project)
+- [Repo Link](https://github.com/bdreslin02/www-afl-dev-project)
 - Click on repository, then navigate to project folder. Download desired file(s). 
 - Follow steps in '**Local File Sharing**.'
