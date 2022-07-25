@@ -2,7 +2,7 @@
 All script and media files required for my website 'A Fisherman's Life.' 
 All content ideas, elements, structure, and implementation are licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Third parties may *NOT* copy or otherwise imitate content for commercial purposes or for profit. 
 ## Status
-- As of 07/06/2022: [Published and virtually hosted](https://afishermanslife.elementfx.com/); Media queries for smaller displays still need to be fixed.
+- As of 07/25/2022: Deployed on [Netlify](https://afishermanslife.netlify.app/)
 ## Reference Material
 - [Project Plan](https://drive.google.com/file/d/174wHZF2gdGVLEHi-jxcS_F8PQQnIyymy/view?usp=sharing)
 - [Figma Wireframe](https://www.figma.com/file/Kr8qbJ7HvagusGkbJHNxVJ/CGS-1831-Website-Proj)
